@@ -5,4 +5,4 @@ before_install:
   - ./scripts/prepareJitpackEnvironment.sh
 install:
   - FILE="-Dfile=scrambleid_sdk-debug.aar"
-  - mvn install:install-file $FILE -DgroupId=com.github.tinoy-scrambleid -DartifactId=scrambleid_sdk-debug -Dversion=1.4 -Dpackaging=aar -DpomFile=pom.xml
+  - mvn install:install-file $FILE -DgroupId=com.github.tinoy-scrambleid -DartifactId=scrambleid_sdk-debug -Dversion=1.5 -Dpackaging=aar -DpomFile=pom.xml
