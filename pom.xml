@@ -3,8 +3,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.tinoy-scrambleid</groupId>
-    <artifactId>scrambleid_sdk-debug</artifactId>
-    <version>1.2.1</version>
+    <artifactId>scrambleid_sdk-release</artifactId>
+    <version>1.0.13</version>
     <dependencies>
         <dependency>
             <groupId>io.insert-koin</groupId>
